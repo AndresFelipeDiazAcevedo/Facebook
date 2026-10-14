@@ -38,7 +38,7 @@ fun FacebookRegisterScreen(navController: NavController) {
                 title = { },
                 navigationIcon = {
                     IconButton(onClick = {
-                        navController.navigate(route = "login")
+                        navController.popBackStack()
                     }) {
 
                     }
