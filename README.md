@@ -1,6 +1,5 @@
 # Facebook App
 
-![foto perfil.jpg](foto%20perfil.jpg)
+<img src="images/f1.jpg" alt="Foto perfil" width="400"/>
 
 ## Andrés Felipe Díaz Acevedo
-
